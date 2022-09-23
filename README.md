@@ -26,8 +26,8 @@ This is a program that will help with basic maths skills for 5-9 year-old (Austr
 
 ## Known Errors & Bugs
 
-- **Clicking the screen pauses the program** - This is a result of a windows feature known as QuickEdit. There is a way to manually turn it off as shown here: <br> https://stackoverflow.com/questions/37578529/disable-quickedit-in-windows-10-cmd-exe#:~:text=Right%20click%20on%20the%20title,with%20Defaults%20instead%20of%20Properties.&text=Perfect%2C%20thank%20you%20very%20much!&text=Right%20click%20%2D%3E%20defaults%20%2D%3E,all%20disabled%20for%20all%20cmd's. 
-Alternatively, you can just refrain from clicking on the program as no interaction with the mouse is needed
+- **Clicking the screen pauses the program** - This is a result of a windows feature known as QuickEdit. There is a way to manually turn it off as shown here <br>-> https://stackoverflow.com/questions/37578529/disable-quickedit-in-windows-10-cmd-exe#:~:text=Right%20click%20on%20the%20title,with%20Defaults%20instead%20of%20Properties.&text=Perfect%2C%20thank%20you%20very%20much!&text=Right%20click%20%2D%3E%20defaults%20%2D%3E,all%20disabled%20for%20all%20cmd's
+<br>Alternatively, you can just refrain from clicking on the program as no interaction with the mouse is needed
 
 - **Pressing enter too many times breaks the program** - Although the reason for this is currently unknown, it is likely that you inputted too much. There is no fix for this other than restarting the program.
 
